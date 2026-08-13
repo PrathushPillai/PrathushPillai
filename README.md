@@ -125,7 +125,6 @@ ask_me_about: ETL design, dbt modeling, Snowflake, Power BI/Tableau, Azure Data 
 
 </div>
 
-> One-time GitHub Actions setup (below) — an actual snake animates through your contribution graph, eating each square. No external service, no downtime.
 
 <br/>
 
