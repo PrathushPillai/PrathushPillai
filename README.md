@@ -24,18 +24,20 @@
 
 ### About me
 
-```yaml
-name: Prathush Shivprasad Pillai
-location: Boston, MA
-role: Data Engineer — ETL pipelines, data modeling, analytics reporting
-education: MS Information Systems @ Northeastern University (2024–2026)
-current: Teaching Assistant, DAMG 7370 — Advanced Data Architecture for BI
-  mentoring 50+ grad students on Snowflake, Databricks, dbt, Airflow-orchestrated ETL
-past: IT Co-Op @ BorgWarner — built ETL pipeline (Python + Azure Data Factory)
-  saved $50K/year, took non-compliant systems from 283 to 0
-also_built: personal dbt + Snowflake pipeline, orchestrated with Airflow in Docker
-ask_me_about: ETL design, dbt modeling, Snowflake, Power BI/Tableau, Azure Data Factory
-```
+<div align="center">
+
+<table width="90%">
+<tr><td width="30%"><b>👤 Name</b></td><td>Prathush Shivprasad Pillai</td></tr>
+<tr><td><b>📍 Location</b></td><td>Boston, MA</td></tr>
+<tr><td><b>🎯 Role</b></td><td>Data Engineer — ETL pipelines, data modeling, analytics reporting</td></tr>
+<tr><td><b>🎓 Education</b></td><td>MS Information Systems @ Northeastern University (2024–2026)</td></tr>
+<tr><td><b>🧑‍🏫 Current</b></td><td>Teaching Assistant, DAMG 7370 — mentoring 50+ grad students on Snowflake, Databricks, dbt, Airflow</td></tr>
+<tr><td><b>🏢 Past</b></td><td>IT Co-Op @ BorgWarner — ETL pipeline (Python + ADF), $50K/yr saved, 283→0 non-compliant systems</td></tr>
+<tr><td><b>🛠️ Also building</b></td><td>Personal dbt + Snowflake pipeline, orchestrated with Airflow in Docker</td></tr>
+<tr><td><b>💬 Ask me about</b></td><td>ETL design, dbt modeling, Snowflake, Power BI/Tableau, Azure Data Factory</td></tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -43,16 +45,36 @@ ask_me_about: ETL design, dbt modeling, Snowflake, Power BI/Tableau, Azure Data 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,snowflake,dbt,airflow,spark,databricks,docker,azure,git,github,vscode&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,mongodb,docker,aws,azure,git,github,vscode,jira&theme=dark&perline=6" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Tableau-38BDF8?style=flat-square&logo=tableau&logoColor=0F2027" />
-<img src="https://img.shields.io/badge/Power%20BI-38BDF8?style=flat-square&logo=powerbi&logoColor=0F2027" />
-<img src="https://img.shields.io/badge/PySpark-38BDF8?style=flat-square&logo=apachespark&logoColor=0F2027" />
-<img src="https://img.shields.io/badge/MongoDB-38BDF8?style=flat-square&logo=mongodb&logoColor=0F2027" />
-<img src="https://img.shields.io/badge/Jira-38BDF8?style=flat-square&logo=jira&logoColor=0F2027" />
-<img src="https://img.shields.io/badge/Alteryx-38BDF8?style=flat-square&logo=alteryx&logoColor=0F2027" />
+<img src="https://img.shields.io/badge/Snowflake-38BDF8?style=for-the-badge&logo=snowflake&logoColor=0F2027" />
+<img src="https://img.shields.io/badge/dbt-38BDF8?style=for-the-badge&logo=dbt&logoColor=0F2027" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-38BDF8?style=for-the-badge&logo=apacheairflow&logoColor=0F2027" />
+<img src="https://img.shields.io/badge/Databricks-38BDF8?style=for-the-badge&logo=databricks&logoColor=0F2027" />
+<img src="https://img.shields.io/badge/Apache%20Spark-38BDF8?style=for-the-badge&logo=apachespark&logoColor=0F2027" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-2C5364?style=for-the-badge&logo=microsoft&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/AWS%20Cloud-2C5364?style=for-the-badge&logo=amazonaws&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Azure%20Cloud-2C5364?style=for-the-badge&logo=microsoftazure&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/SQL%20Server-2C5364?style=for-the-badge&logo=microsoftsqlserver&logoColor=38BDF8" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Tableau-8B5CF6?style=for-the-badge&logo=tableau&logoColor=0F2027" />
+<img src="https://img.shields.io/badge/Power%20BI-8B5CF6?style=for-the-badge&logo=powerbi&logoColor=0F2027" />
+<img src="https://img.shields.io/badge/PySpark-8B5CF6?style=for-the-badge&logo=apachespark&logoColor=0F2027" />
+<img src="https://img.shields.io/badge/Alteryx-8B5CF6?style=for-the-badge&logo=alteryx&logoColor=0F2027" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Data%20Warehousing-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Dimensional%20Modeling-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Star%20Schema-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/ETL%2FELT-22C55E?style=flat-square" />
 
 </div>
 
@@ -98,14 +120,50 @@ ask_me_about: ETL design, dbt modeling, Snowflake, Power BI/Tableau, Azure Data 
 
 <br/>
 
+### 🔭 Currently exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLM%20Agents-38BDF8?style=for-the-badge&logo=robot&logoColor=0F2027" />
+<img src="https://img.shields.io/badge/RAG-38BDF8?style=for-the-badge&logo=databricks&logoColor=0F2027" />
+<img src="https://img.shields.io/badge/LangChain%2FLangGraph-38BDF8?style=for-the-badge&logo=chainlink&logoColor=0F2027" />
+<img src="https://img.shields.io/badge/Vector%20DBs-38BDF8?style=for-the-badge&logo=pinecone&logoColor=0F2027" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/MCP%20%28Model%20Context%20Protocol%29-2C5364?style=for-the-badge&logo=anthropic&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2C5364?style=for-the-badge&logo=openai&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/GenAI%20for%20Data%20Eng-2C5364?style=for-the-badge&logo=sparkfun&logoColor=38BDF8" />
+
+</div>
+
+<br/>
+
+**Learning roadmap** — where I'm spending time right now:
+
+<table width="100%">
+<tr><td width="34%"><b>LLM-powered multi-agent systems</b></td><td><img src="https://img.shields.io/badge/status-actively%20building-38BDF8?style=flat-square" /></td><td>Built the AI Research Agent System (LangChain + Streamlit); now exploring LangGraph for stateful multi-step agents</td></tr>
+<tr><td><b>RAG pipelines</b></td><td><img src="https://img.shields.io/badge/status-learning-8B5CF6?style=flat-square" /></td><td>Vector search (Pinecone/Chroma) + embedding pipelines feeding into dbt-modeled warehouses</td></tr>
+<tr><td><b>Model Context Protocol (MCP)</b></td><td><img src="https://img.shields.io/badge/status-exploring-8B5CF6?style=flat-square" /></td><td>How agents connect to live data tools — relevant to ETL/orchestration work</td></tr>
+<tr><td><b>dbt + Airflow orchestration</b></td><td><img src="https://img.shields.io/badge/status-daily%20driver-22C55E?style=flat-square" /></td><td>Personal pipeline project, production-pattern practice</td></tr>
+<tr><td><b>Databricks + PySpark at scale</b></td><td><img src="https://img.shields.io/badge/status-daily%20driver-22C55E?style=flat-square" /></td><td>Used in LA Crime Analytics + IMDb Analytics Platform</td></tr>
+</table>
+
+<br/>
+
 ### GitHub stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PrathushPillai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathushPillai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027" />
+<img height="195" src="./profile/stats.svg" />
+<img height="195" src="./profile/top-langs.svg" />
 
-<br/>
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathushPillai&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrathushPillai&theme=tokyonight" width="48%" />
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathushPillai&theme=tokyonight&hide_border=true&background=0F2027" width="66%" />
 
@@ -114,6 +172,8 @@ ask_me_about: ETL design, dbt modeling, Snowflake, Power BI/Tableau, Azure Data 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathushPillai&theme=tokyo-night&hide_border=true&bg_color=0F2027" width="90%" />
 
 </div>
+
+> **Reading the numbers:** the first card breaks down stars, commits, PRs, issues, reviews, and PR merge rate. The streak card tracks daily contribution consistency. The activity graph shows commit volume over time — pushes, PRs, and issues, week by week.
 
 <br/>
 
@@ -125,6 +185,7 @@ ask_me_about: ETL design, dbt modeling, Snowflake, Power BI/Tableau, Azure Data 
 
 </div>
 
+> One-time GitHub Actions setup (below) — an actual snake animates through your contribution graph, eating each square. No external service, no downtime.
 
 <br/>
 
