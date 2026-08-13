@@ -173,8 +173,6 @@
 
 </div>
 
-> **Reading the numbers:** the first card breaks down stars, commits, PRs, issues, reviews, and PR merge rate. The streak card tracks daily contribution consistency. The activity graph shows commit volume over time — pushes, PRs, and issues, week by week.
-
 <br/>
 
 ### Contribution snake
@@ -185,14 +183,7 @@
 
 </div>
 
-> One-time GitHub Actions setup (below) — an actual snake animates through your contribution graph, eating each square. No external service, no downtime.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
 
-<div align="center">
-
-*In data we trust, but always version control the pipeline.*
-
-</div>
