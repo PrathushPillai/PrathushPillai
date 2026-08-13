@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0F2027" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/prathushpillai"><img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0F2027" /></a>
 <a href="mailto:prathushpillai55@gmail.com"><img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0F2027" /></a>
 <a href="https://github.com/PrathushPillai"><img src="https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=0F2027" /></a>
 
