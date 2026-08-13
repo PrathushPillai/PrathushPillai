@@ -1,3 +1,5 @@
-## Hi there 👋
+# Hi there, I'm Prathush 👋
 
-[!Prathush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathushPillai)](https://github.com/PrathushPillai/github-readme-stats)
+Data Engineer | Analytics Enthusiast
+
+![Prathush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathushPillai&show_icons=true&theme=radical)
