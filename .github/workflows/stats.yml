@@ -1,3 +1,4 @@
+
 name: Update stats cards
 
 on:
@@ -12,21 +13,20 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate stats card
-        uses: jstrimpel/github-stats-transparent@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          user: PrathushPillai
-          output: profile/stats.svg
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top-langs card
-        uses: jstrimpel/github-stats-transparent@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          user: PrathushPillai
           card: top-langs
-          output: profile/top-langs.svg
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
